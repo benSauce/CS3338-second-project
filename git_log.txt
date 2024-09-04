@@ -1,0 +1,48 @@
+commit b7d1a8e0603404ebd56d20cb6ba6bc5f290e683b
+Merge: 8d0759a 6578b3d
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:19:53 2024 -0700
+
+    Merge branch 'main' into index-fix
+    
+    # Conflicts:
+    #       index.html
+
+commit 8d0759acd1e1cd670bc72b6e5744a5e6a47fc025
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:14:52 2024 -0700
+
+    added favorite game to index.html
+
+commit 6578b3d88e4dca6ea8714a660c9683e2388b1e5a
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:13:18 2024 -0700
+
+    added favorite food to index.html
+
+commit d73f518662e1fc1d0703b0a1d9141344e8aceb9f
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:10:33 2024 -0700
+
+    added README.md
+
+commit a06bfd7abc44ac7c9c887f1d674d361a436cfb43
+Merge: 1d2bfc0 4fa6e77
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 3 22:05:01 2024 -0700
+
+    Merge pull request #1 from benSauce/info-fill
+    
+    filled in both blanks in index.html
+
+commit 4fa6e77e9431098837f3a48ea59520576802ef8f
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 21:51:17 2024 -0700
+
+    filled in both blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
