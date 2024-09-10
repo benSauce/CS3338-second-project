@@ -1,3 +1,85 @@
+commit f02116e16e578cf52eebc232b1f976ecdc7399b3
+Merge: 47d8767 106b5be
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:47:58 2024 -0700
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       index.html
+
+commit 106b5bee9b3b42580364387cd93f2cf912d83972
+Merge: dcd5e9d 96540d5
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:45:20 2024 -0700
+
+    Merge pull request #2 from benSauce/feature-about-me-local
+    
+    Feature about me local
+
+commit 53767b54adaeefd0d5b0f70c7b31b02d1e9fdd5b
+Merge: 96540d5 47d8767
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:41:54 2024 -0700
+
+    Merge branch 'main' into feature-about-me-local
+    
+    # Conflicts:
+    #       index.html
+
+commit 47d8767f753fd19e3b08238fbea55670a6abcdbb
+Merge: 83ee4ec dcd5e9d
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:36:30 2024 -0700
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       index.html
+
+commit 96540d546a91c1b75205c962b5d6517e45e0b6af
+Merge: 0f2a63f dcd5e9d
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:34:57 2024 -0700
+
+    Merge branch 'main' into feature-about-me-local
+
+commit 0f2a63fcc26cdf5a0114cf6cbfb0ebb140e4cc4e
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:26:48 2024 -0700
+
+    updated info about me
+
+commit 7042058067715f1d8490ff0ba31ef8520d312e39
+Author: benSauce <77858815+benSauce@users.noreply.github.com>
+Date:   Tue Sep 10 15:24:44 2024 -0700
+
+    updated info about me
+
+commit 83ee4eca9b21ee5827c731ffb9c21e81e4c98b43
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:29:19 2024 -0700
+
+    part 4 (logging) complete
+
+commit 786404ad54c8a5c8152d57e40f33ecb622b2a90d
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:14:52 2024 -0700
+
+    added favorite game to index.html
+
+commit 6ec4b68058d86e931130d4a4eef84f56abc100f8
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:10:33 2024 -0700
+
+    added README.md
+
+commit dcd5e9d8a5847ae4986f9d2e0ae599a860fef588
+Author: Ben Saucedo <bsauce11@calstatela.edu>
+Date:   Tue Sep 3 22:29:19 2024 -0700
+
+    part 4 (logging) complete
+
 commit b7d1a8e0603404ebd56d20cb6ba6bc5f290e683b
 Merge: 8d0759a 6578b3d
 Author: Ben Saucedo <bsauce11@calstatela.edu>
@@ -40,6 +122,34 @@ Author: Ben Saucedo <bsauce11@calstatela.edu>
 Date:   Tue Sep 3 21:51:17 2024 -0700
 
     filled in both blanks in index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
 
 commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
 Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
